@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<OME xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.openmicroscopy.org/Schemas/OME/2016-06/ome.xsd">
+  <Image ID="Image:0" Name="20160130-corning-all-spheroids-p2-095hps_A01_w1.TIF">
+    <AcquisitionDate>2016-01-30T14:23:20</AcquisitionDate>
+    <Description>20160130-corning-all-spheroids-p2-095hps</Description>
+    <Pixels BigEndian="false" DimensionOrder="XYCZT" ID="Pixels:0" Interleaved="false" PhysicalSizeX="352.77777777777777" PhysicalSizeXUnit="µm" PhysicalSizeY="352.77777777777777" PhysicalSizeYUnit="µm" SignificantBits="16" SizeC="1" SizeT="1" SizeX="2160" SizeY="2160" SizeZ="1" Type="uint16">
+      <Channel ID="Channel:0:0" SamplesPerPixel="1">
+        <LightPath/>
+      </Channel>
+      <MetadataOnly/>
+    </Pixels>
+  </Image>
+  <StructuredAnnotations xmlns="http://www.openmicroscopy.org/Schemas/SA/2015-01">
+    <XMLAnnotation ID="Annotation:0" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>ImageLength</Key>
+          <Value>2160</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:1" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Software</Key>
+          <Value>MetaMorph 5.0.0.21</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:2" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Plate ID</Key>
+          <Value>2150</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:3" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Compression</Key>
+          <Value>LZW</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:4" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Image AF Performed</Key>
+          <Value>0</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:5" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Experiment base name</Key>
+          <Value>20160130-corning-all-spheroids-p2-095hps</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:6" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Trigger Mode</Key>
+          <Value> Normal (TIMED)</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:7" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Temperature</Key>
+          <Value> 5</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:8" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Performed</Key>
+          <Value>1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:9" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>NumberOfChannels</Key>
+          <Value>1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:10" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Shading</Key>
+          <Value> Off</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:11" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Binning</Key>
+          <Value> 1 x 1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:12" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Elapsed Time</Key>
+          <Value>3027</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:13" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>NewSubfileType</Key>
+          <Value>0</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:14" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>ImageWidth</Key>
+          <Value>2160</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:15" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>BitsPerSample</Key>
+          <Value>16</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:16" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Region</Key>
+          <Value> 2160 x 2160, offset at (200, 0)</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:17" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Plate Bottom Exposure Attempts</Key>
+          <Value>1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:18" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>DateTime</Key>
+          <Value>2016:01:30 14:23:20</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:19" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Gain</Key>
+          <Value> Gain 1 (0.45 e/cnt)</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:20" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>FillOrder</Key>
+          <Value>Pixels with lower column values are stored in the higher order bits of a byte</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:21" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Frames to Average</Key>
+          <Value> 1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:22" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>ResolutionUnit</Key>
+          <Value>Inch</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:23" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Exposure</Key>
+          <Value> 100 ms</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:24" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>PlanarConfiguration</Key>
+          <Value>Chunky</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:25" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Comment</Key>
+          <Value>20160130-corning-all-spheroids-p2-095hps</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:26" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>XResolution</Key>
+          <Value>72</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:27" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Spot Noise Reducer Enabled</Key>
+          <Value> Yes</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:28" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Plate Bottom Position</Key>
+          <Value>9580.22</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:29" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Subtract</Key>
+          <Value> Off</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:30" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Digitizer</Key>
+          <Value> 95.33 MHz</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:31" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>MetaMorph</Key>
+          <Value>yes</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:32" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>PhotometricInterpretation</Key>
+          <Value>BlackIsZero</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:33" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Plate Bottom Attempts</Key>
+          <Value>1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:34" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Experiment set</Key>
+          <Value>20160130-corning-all-spheroids-p2-095hps</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:35" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Plate Bottom Success</Key>
+          <Value>1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:36" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Image AF Performed On LAF Fail</Key>
+          <Value>0</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:37" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>MetaDataPhotometricInterpretation</Key>
+          <Value>Monochrome</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:38" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>Predictor</Key>
+          <Value>Horizontal differencing</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:39" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Plate Bottom Exposure Adjusted</Key>
+          <Value>19</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:40" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Plate Bottom Exposure</Key>
+          <Value>60</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:41" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>LAF Well Bottom Attempts</Key>
+          <Value>0</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:42" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>SamplesPerPixel</Key>
+          <Value>1</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+    <XMLAnnotation ID="Annotation:43" Namespace="openmicroscopy.org/OriginalMetadata">
+      <Value>
+        <OriginalMetadata>
+          <Key>YResolution</Key>
+          <Value>72</Value>
+        </OriginalMetadata>
+      </Value>
+    </XMLAnnotation>
+  </StructuredAnnotations>
+</OME>
